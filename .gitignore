@@ -1,1 +1,8 @@
 /.bsp/
+/.idea/
+/metastore_db/
+/project/
+/spark-warehouse/
+/src/test/
+/target/
+/derby.log
